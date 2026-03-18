@@ -15,7 +15,6 @@ https://www.1flex.nl/
 
 ## 📸 Preview
 
-![Homepage Screenshot](https://apktodo.io/uploads/2025/5/1flixto-apk.jpg)
-
+![Homepage Screenshot][https://apktodo.io/uploads/2025/5/1flixto-apk.jpg]
 
 ---
